@@ -1,0 +1,37 @@
+C:\Users\Fonseca\AppData\Local\Temporary Projects\tienda\bin\Debug\tienda.exe.config
+C:\Users\Fonseca\AppData\Local\Temporary Projects\tienda\obj\Debug\tienda.vbprojResolveAssemblyReference.cache
+C:\Users\Fonseca\AppData\Local\Temporary Projects\tienda\obj\Debug\tienda.Form1.resources
+C:\Users\Fonseca\AppData\Local\Temporary Projects\tienda\obj\Debug\tienda.Resources.resources
+C:\Users\Fonseca\AppData\Local\Temporary Projects\tienda\obj\Debug\tienda.vbproj.GenerateResource.Cache
+C:\Users\Fonseca\Documents\Visual Studio 2012\Projects\tienda\tienda\bin\Debug\tienda.exe.config
+C:\Users\Fonseca\Documents\Visual Studio 2012\Projects\tienda\tienda\bin\Debug\tienda.exe
+C:\Users\Fonseca\Documents\Visual Studio 2012\Projects\tienda\tienda\bin\Debug\tienda.pdb
+C:\Users\Fonseca\Documents\Visual Studio 2012\Projects\tienda\tienda\bin\Debug\tienda.xml
+C:\Users\Fonseca\Documents\Visual Studio 2012\Projects\tienda\tienda\obj\Debug\tienda.vbprojResolveAssemblyReference.cache
+C:\Users\Fonseca\Documents\Visual Studio 2012\Projects\tienda\tienda\obj\Debug\tienda.Form1.resources
+C:\Users\Fonseca\Documents\Visual Studio 2012\Projects\tienda\tienda\obj\Debug\tienda.Resources.resources
+C:\Users\Fonseca\Documents\Visual Studio 2012\Projects\tienda\tienda\obj\Debug\tienda.vbproj.GenerateResource.Cache
+C:\Users\Fonseca\Documents\Visual Studio 2012\Projects\tienda\tienda\obj\Debug\tienda.exe
+C:\Users\Fonseca\Documents\Visual Studio 2012\Projects\tienda\tienda\obj\Debug\tienda.xml
+C:\Users\Fonseca\Documents\Visual Studio 2012\Projects\tienda\tienda\obj\Debug\tienda.pdb
+C:\Users\Fonseca\Documents\Visual Studio 2012\Projects\tienda\tienda\obj\Debug\tienda.venta_productos.resources
+C:\Users\Fonseca\Documents\Visual Studio 2012\Projects\tienda\tienda\bin\Debug\tienda.exe.manifest
+C:\Users\Fonseca\Documents\Visual Studio 2012\Projects\tienda\tienda\bin\Debug\tienda.application
+C:\Users\Fonseca\Documents\Visual Studio 2012\Projects\tienda\tienda\obj\Debug\tienda.exe.manifest
+C:\Users\Fonseca\Documents\Visual Studio 2012\Projects\tienda\tienda\obj\Debug\tienda.application
+C:\Users\Usuario\Desktop\tienda\tienda\bin\Debug\tienda.exe.config
+C:\Users\Usuario\Desktop\tienda\tienda\obj\Debug\tienda.exe
+C:\Users\Usuario\Desktop\tienda\tienda\obj\Debug\tienda.xml
+C:\Users\Usuario\Desktop\tienda\tienda\obj\Debug\tienda.pdb
+C:\Users\Usuario\Desktop\tienda\tienda\bin\Debug\tienda.exe.manifest
+C:\Users\Usuario\Desktop\tienda\tienda\bin\Debug\tienda.application
+C:\Users\Usuario\Desktop\tienda\tienda\bin\Debug\tienda.exe
+C:\Users\Usuario\Desktop\tienda\tienda\bin\Debug\tienda.pdb
+C:\Users\Usuario\Desktop\tienda\tienda\bin\Debug\tienda.xml
+C:\Users\Usuario\Desktop\tienda\tienda\obj\Debug\tienda.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\tienda\tienda\obj\Debug\tienda.Form1.resources
+C:\Users\Usuario\Desktop\tienda\tienda\obj\Debug\tienda.Resources.resources
+C:\Users\Usuario\Desktop\tienda\tienda\obj\Debug\tienda.venta_productos.resources
+C:\Users\Usuario\Desktop\tienda\tienda\obj\Debug\tienda.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\tienda\tienda\obj\Debug\tienda.exe.manifest
+C:\Users\Usuario\Desktop\tienda\tienda\obj\Debug\tienda.application
